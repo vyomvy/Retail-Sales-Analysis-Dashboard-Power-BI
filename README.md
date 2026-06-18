@@ -20,5 +20,7 @@ The business is currently over-reliant on Electronics. While Electronics drives 
 Tools Used: Power BI, DAX, Excel
 
 
-<img width="1105" height="624" alt="image" src="https://github.com/user-attachments/assets/a64a6a44-e574-40f3-98d6-d3ee11550082" />
+
+<img width="1069" height="635" alt="image" src="https://github.com/user-attachments/assets/04113f44-5e32-4599-8af7-14aac594a8db" />
+
 
