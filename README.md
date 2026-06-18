@@ -1,6 +1,4 @@
-Project Title:
-
-##Retail Sales Analysis Dashboard — Power BI
+Project Title:  Retail Sales Analysis Dashboard — Power BI
 Business Problem:
 
 Analyzed 200+ retail transactions across 8 Indian cities to identify revenue drivers, seasonal trends, and category performance for a retail business.
