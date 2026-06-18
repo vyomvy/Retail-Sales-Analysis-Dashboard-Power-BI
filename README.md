@@ -12,3 +12,4 @@ Business Recommendation:
 
 The business is currently over-reliant on Electronics. While Electronics drives revenue due to high pricing, the gap between Electronics and other categories is too large for sustainable growth. Recommend investing in marketing for Clothing and Home Appliances to diversify revenue streams and reduce category risk.
 Tools Used: Power BI, DAX, Excel
+<img width="1102" height="636" alt="image" src="https://github.com/user-attachments/assets/8d821d96-2605-43ee-aa77-5aefde63e52b" />
